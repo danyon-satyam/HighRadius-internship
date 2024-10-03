@@ -16,9 +16,8 @@ Description: This presentation explores a set of three innovative iPhone accesso
 5. Johnson & Johnson Contacts Hierarchy
 Description: This document presents the organizational hierarchy of Johnson & Johnson’s key contacts across various departments including Finance, Marketing, Sales, IT, HR, Procurement, and Legal. It details the roles and responsibilities of decision-makers and influencers, making it a useful reference for understanding the structure of the company’s leadership and its impact on decision-making processes.
 
-6. Title: Stella & Dot Investor Pitch – Consulting Proposal
-Description:
-This presentation outlines a consulting proposal for Stella & Dot, a company revolutionizing the jewellery and accessories market. The pitch covers key market insights, product differentiation, pricing strategies, distribution channels, and promotional efforts. It emphasizes Stella & Dot's commitment to ethical sourcing, high-quality craftsmanship, and a unique product offering tailored to style-savvy professionals. The proposal also highlights a robust omnichannel approach for brand visibility and expansion into international markets.
+6. Stella & Dot Investor Pitch – Consulting Proposal
+Description: This presentation outlines a consulting proposal for Stella & Dot, a company revolutionizing the jewellery and accessories market. The pitch covers key market insights, product differentiation, pricing strategies, distribution channels, and promotional efforts. It emphasizes Stella & Dot's commitment to ethical sourcing, high-quality craftsmanship, and a unique product offering tailored to style-savvy professionals. The proposal also highlights a robust omnichannel approach for brand visibility and expansion into international markets.
 
 Key Sections:
 1. Target Market Analysis
