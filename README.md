@@ -1,20 +1,21 @@
 # HighRadius-internship | Bhubaneswar, Odisha - 751024, India
 May 2024 - Jun 2024
 # Designation: Sales and marketing intern
-# Workings during the internship:
+
 ---
+
 # Main Project:
-# # # Sales Analysis Report - Power BI Project
+# Sales Analysis Report - Power BI Project
 This project focuses on developing an interactive Sales Analysis Dashboard using Power BI, designed to deliver key insights into sales performance, revenue trends, and customer segmentation. The dashboard visualizes comprehensive sales data, helping organizations make data-driven decisions.
 
-# # # Key Features:
+# Key Features:
 Sales Performance Overview: Analyze total sales, revenue growth, and sales distribution across various periods.
 Customer Segmentation: Visualize customer categories based on sales data, identifying high-value customers and potential growth segments.
 Profitability Analysis: Track profit margins and compare regional or product-specific performance to highlight areas of improvement.
 KPI Tracking: Set up Key Performance Indicators (KPIs) like total revenue, average order value, and sales trends, enabling quick and effective business insights.
 Interactive Filters: Use slicers and filters to dynamically explore data by regions, periods, or product categories for a more customized analysis.
 
-# # # Technical Details:
+# Technical Details:
 Data Modeling: Leveraged Power Query for data cleaning and transformation.
 DAX Functions: Utilized Data Analysis Expressions (DAX) for advanced calculations, such as year-over-year comparisons, cumulative totals, and profitability metrics.
 Visualizations: Designed a visually appealing dashboard with bar charts, line graphs, and pie charts for easy interpretation of sales metrics.
