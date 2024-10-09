@@ -1,4 +1,5 @@
 <p><img align="center" src="https://5.imimg.com/data5/SELLER/Default/2023/11/361040709/HO/LI/EV/16366204/highradius-software.jpg" alt="danyon-satyam" /></p>
+
 # HighRadius-internship | Bhubaneswar, Odisha - 751024, India
 * May 2024 - Jun 2024
 * Designation: Sales and marketing intern
