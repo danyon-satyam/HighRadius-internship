@@ -1,5 +1,34 @@
-# HighRadius-internship
-Here, I have added the key tasks associated with the Highradius Highacko internship period.
+# HighRadius-internship | Bhubaneswar, Odisha - 751024, India
+May 2024 - Jun 2024
+# Designation: Sales and marketing intern
+# Workings during the internship:
+---
+# Main Project:
+# # # Sales Analysis Report - Power BI Project
+This project focuses on developing an interactive Sales Analysis Dashboard using Power BI, designed to deliver key insights into sales performance, revenue trends, and customer segmentation. The dashboard visualizes comprehensive sales data, helping organizations make data-driven decisions.
+
+# # # Key Features:
+Sales Performance Overview: Analyze total sales, revenue growth, and sales distribution across various periods.
+Customer Segmentation: Visualize customer categories based on sales data, identifying high-value customers and potential growth segments.
+Profitability Analysis: Track profit margins and compare regional or product-specific performance to highlight areas of improvement.
+KPI Tracking: Set up Key Performance Indicators (KPIs) like total revenue, average order value, and sales trends, enabling quick and effective business insights.
+Interactive Filters: Use slicers and filters to dynamically explore data by regions, periods, or product categories for a more customized analysis.
+
+# # # Technical Details:
+Data Modeling: Leveraged Power Query for data cleaning and transformation.
+DAX Functions: Utilized Data Analysis Expressions (DAX) for advanced calculations, such as year-over-year comparisons, cumulative totals, and profitability metrics.
+Visualizations: Designed a visually appealing dashboard with bar charts, line graphs, and pie charts for easy interpretation of sales metrics.
+This project demonstrates a practical approach to sales analytics, providing actionable insights that can drive decision-making and improve business performance.
+
+Feel free to explore the dashboard and gain insights into how sales analytics can be used to optimize business outcomes.
+
+--- 
+
+# Other relevant tasks:
+
+1. Trained in essential Sales and Marketing skills to kick-start a professional career.
+2. Experienced in the Organizational hierarchy and effective consultant proposals to establish the best business 
+models for the lead associate companies.
 
 1. Mastering High-Net-Worth Wealth Management Strategies for Financial Success
 Description: This presentation provides a comprehensive guide for affluent executives in India on mastering wealth management strategies. It covers investment strategies, tax planning, estate planning, and the importance of professional guidance to ensure financial stability and wealth preservation for future generations.
