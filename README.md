@@ -1,3 +1,4 @@
+![MasterHead](https://www.google.com/imgres?q=Highradius%20logo&imgurl=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fcbi-image-service-prd%2Foriginal%2Fabbf2573-0622-4be1-ba6f-a744c90bee0f.png&imgrefurl=https%3A%2F%2Fwww.cbinsights.com%2Fcompany%2Fhighradius&docid=B9Y2d8QVA2z32M&tbnid=MKy6P8LdAhpLVM&vet=12ahUKEwi-2P2b_ICJAxVEzDgGHTkUF4QQM3oECE4QAA..i&w=2700&h=579&hcb=2&ved=2ahUKEwi-2P2b_ICJAxVEzDgGHTkUF4QQM3oECE4QAA)
 # HighRadius-internship | Bhubaneswar, Odisha - 751024, India
 * May 2024 - Jun 2024
 * Designation: Sales and marketing intern
