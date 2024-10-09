@@ -9,17 +9,17 @@
 This project focuses on developing an interactive Sales Analysis Dashboard using Power BI, designed to deliver key insights into sales performance, revenue trends, and customer segmentation. The dashboard visualizes comprehensive sales data, helping organizations make data-driven decisions.
 
 # Key Features:
-Sales Performance Overview: Analyze total sales, revenue growth, and sales distribution across various periods.
-Customer Segmentation: Visualize customer categories based on sales data, identifying high-value customers and potential growth segments.
-Profitability Analysis: Track profit margins and compare regional or product-specific performance to highlight areas of improvement.
-KPI Tracking: Set up Key Performance Indicators (KPIs) like total revenue, average order value, and sales trends, enabling quick and effective business insights.
-Interactive Filters: Use slicers and filters to dynamically explore data by regions, periods, or product categories for a more customized analysis.
+1. Sales Performance Overview: Analyze total sales, revenue growth, and sales distribution across various periods.
+2. Customer Segmentation: Visualize customer categories based on sales data, identifying high-value customers and potential growth segments.
+3. Profitability Analysis: Track profit margins and compare regional or product-specific performance to highlight areas of improvement.
+4. KPI Tracking: Set up Key Performance Indicators (KPIs) like total revenue, average order value, and sales trends, enabling quick and effective business insights.
+4. Interactive Filters: Use slicers and filters to dynamically explore data by regions, periods, or product categories for a more customized analysis.
 
 # Technical Details:
-Data Modeling: Leveraged Power Query for data cleaning and transformation.
-DAX Functions: Utilized Data Analysis Expressions (DAX) for advanced calculations, such as year-over-year comparisons, cumulative totals, and profitability metrics.
-Visualizations: Designed a visually appealing dashboard with bar charts, line graphs, and pie charts for easy interpretation of sales metrics.
-This project demonstrates a practical approach to sales analytics, providing actionable insights that can drive decision-making and improve business performance.
+1. Data Modeling: Leveraged Power Query for data cleaning and transformation.
+2. DAX Functions: Utilized Data Analysis Expressions (DAX) for advanced calculations, such as year-over-year comparisons, cumulative totals, and profitability metrics.
+3. Visualizations: Designed a visually appealing dashboard with bar charts, line graphs, and pie charts for easy interpretation of sales metrics.
+4. This project demonstrates a practical approach to sales analytics, providing actionable insights that can drive decision-making and improve business performance.
 
 Feel free to explore the dashboard and gain insights into how sales analytics can be used to optimize business outcomes.
 
