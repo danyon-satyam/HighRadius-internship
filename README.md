@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/imgres?q=fintech%20enterprise%20Highradius%20logo&imgurl=https%3A%2F%2Fd1pt6w2mt2xqso.cloudfront.net%2FAcuCustom%2FSitename%2FDAM%2F014%2FHighRadius-PANTONE-with-IR-Logo_Main.png&imgrefurl=https%3A%2F%2Fwww.creditstrategy.co.uk%2Fcs-industry-directory%2Fhighradius&docid=pkpVTn3P3LNTeM&tbnid=1TX5yprzOC6PIM&vet=12ahUKEwiUyKHi_ICJAxXFw6ACHeCACAgQM3oECBcQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwiUyKHi_ICJAxXFw6ACHeCACAgQM3oECBcQAA)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danyon-satyam&" alt="danyon-satyam" /></p>
 # HighRadius-internship | Bhubaneswar, Odisha - 751024, India
 * May 2024 - Jun 2024
 * Designation: Sales and marketing intern
