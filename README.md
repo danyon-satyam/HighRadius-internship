@@ -1,6 +1,6 @@
 # HighRadius-internship | Bhubaneswar, Odisha - 751024, India
-May 2024 - Jun 2024
-Designation: Sales and marketing intern
+* May 2024 - Jun 2024
+* Designation: Sales and marketing intern
 
 ---
 
